@@ -55,3 +55,13 @@ private void txtuserinput_textchanged(object sender,eventargs)
 1.控件触发那些事件？<br>
 2.顺序是怎么样的？<br>
 3.我选择那些事件进行响应<br>
+
+*`progressBar`<br>
+`value`当前完成百分比<br>
+`maximum``minimum`最大值最小值<br>
+
+*`Timer`<br>
+定时调用<br>
+`interval`定时间隔（100=0.1秒） 激发tick事件<br>
+`tick`事件<br>
+

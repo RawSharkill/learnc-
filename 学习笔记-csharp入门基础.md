@@ -37,9 +37,22 @@ class innername{
  int 之类的简单类型属于“值类型”的变量，方法内部定义的变量，内存位于“线程堆栈”中<br>
  `对象变量相互复制`引用相同的对象<br>
  
- `制度对象`<br>
+ `只读对象`<br>
  DateTime,string,等等<br>
  在多线程的环境下，使用制度对象提高程序性能。<br>
  `设计只读类`<br>
  
+ `数组`<br>
+ ```
+ int[] arr=new int[3]{1,2,3};
+ ```
+ `重载，重写`<br>
+ ```
+ //重载
+ public void overloadF(){}//父
+ public void overloadF(int i）{}//子
+ //重写覆盖
+ public virtual void oveerrideF(){}//父
+ public override void overrideF(){}//子
  
+ ```

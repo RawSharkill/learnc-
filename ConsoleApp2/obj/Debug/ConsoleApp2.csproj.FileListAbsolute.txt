@@ -1,0 +1,9 @@
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\bin\Debug\ClassLibrary3.dll
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\bin\Debug\ClassLibrary3.pdb
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\于田\source\repos\csharp入门1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
